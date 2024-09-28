@@ -13,7 +13,6 @@ from yacut.constants import (NO_REQUEST_BODY, REQUIRED_URL, ID_NOT_FOUND,
                              REEXP_FOR_URL)
 from . import app, db
 
-# Configure logging
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 

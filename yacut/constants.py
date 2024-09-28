@@ -11,6 +11,5 @@ ID_NOT_FOUND = 'Указанный id не найден'
 NAME_IS_OCCUPIED = 'Предложенный вариант короткой ссылки уже существует.'
 INVALID_NAME_FOR_LINK = 'Указано недопустимое имя для короткой ссылки'
 
-NAME_IS_OCCUPIED_FLASH = 'Имя {custom_id} уже занято!'
 REEXP_FOR_CUSTOM_ID = "^[a-zA-Z0-9]+$"
 REEXP_FOR_URL = '^(http|https):'
